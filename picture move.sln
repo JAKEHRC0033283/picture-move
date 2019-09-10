@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "picture move", "picture move\picture move.csproj", "{60240EC0-0665-4264-9A73-60FCFBE289FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60240EC0-0665-4264-9A73-60FCFBE289FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60240EC0-0665-4264-9A73-60FCFBE289FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60240EC0-0665-4264-9A73-60FCFBE289FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60240EC0-0665-4264-9A73-60FCFBE289FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F80C2DA0-2ABF-4DBA-B2AE-CE00A501E896}
+	EndGlobalSection
+EndGlobal
